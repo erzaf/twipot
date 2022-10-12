@@ -56,4 +56,4 @@ This script is run based on the Chromium driver, its automate the manual way of 
 
 # What's next?
 
-The next version of this script maybe is about using the proxy lists to avoid the rate limitation from the META. But it might depends on the sponsor lol xD
+The next version of this script maybe is about using the proxy lists to avoid the rate limitation from the Twitter. But it might depends on the sponsor lol xD
